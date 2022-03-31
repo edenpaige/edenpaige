@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @edenpaige
-- 👀 I’m interested in books, mvoies and food
+- 👀 I’m interested in books, movies and food
 - 🌱 I’m currently learning programming, little bit of Python
 - 💞️ I’m looking to collaborate on anything in the future
 - 📫 How to reach me ... via Owl
